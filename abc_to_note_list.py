@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 """
+Attributions: This file is slightly modified from the original one file to generate output to a file. Just consider this whole file is not my work.
 Parse a file in ABC music notation format and render with PySynth.
 
 Usage:
